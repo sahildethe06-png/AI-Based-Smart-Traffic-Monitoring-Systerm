@@ -1,0 +1,12 @@
+ultralytics>=8.3,<9
+opencv-python>=4.9
+supervision>=0.22
+streamlit>=1.38
+streamlit-folium>=0.22
+folium>=0.17
+plotly>=5.22
+pandas>=2.2
+numpy>=1.26,<2.2
+requests>=2.32
+python-dotenv>=1.0
+lapx>=0.5
